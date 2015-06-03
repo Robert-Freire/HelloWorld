@@ -1,0 +1,21 @@
+{
+  "name": "HelloWorld",
+  "version": "0.0.0",
+  "description": "Hello World sample application setup",
+  "authors": [
+    "RFM"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jQuery": "~2.1.4",
+    "components-font-awesome": "~4.3.0"
+  }
+}

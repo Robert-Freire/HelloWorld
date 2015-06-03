@@ -1,0 +1,8 @@
+0 Añdir wiredep (insertar bower)
+1  Añadir jshint
+--pasando 2 Añadir jscs
+3 Añadir watch js
+
+4 Añadir connect liverload
+5 Añadir watch livereload
+6 Añadir useminPrepare/usemin/filerv (miminificar concatenar y renombrar archivos)
